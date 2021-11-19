@@ -1,4 +1,4 @@
-# Deep-Learning-Image-Classfication-CIFAR10
+# Deep Learning: Image Classfication CIFAR10 Dataset
 
 ## Project Aim
 
